@@ -1,0 +1,3 @@
+- 👋 Hi, I’m muneef
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning Python
